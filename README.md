@@ -42,17 +42,18 @@ At SkillHarvest, we believe in the transformative power of knowledge. Join us on
 Happy Learning!
 
 ## Data Sources
-The primary data source employed in this analysis is the "DataSale.csv" file, which is an open-source dataset available for free download from various online platforms like Kaggle, FRED, or any other open data repository site.
+The primary data source employed in this analysis is the "SkillHarvest_Stationary_Supplies teedee" file, which is not an open-source dataset available for free download from various online platforms like Kaggle, FRED, or any other open data repository site.
 
 ## Tools Used
 - Ms Excel for Data Cleaning [Download Here](https:/www.microsoft.com)
-- SQL Server (For Querying and Analysis)
+- Google Sheet (For Querying and Analysis)
 - power BI (For Reporting)
 - Ms Power Point (For Presentation)
 
 ## Data Cleaning and Preparation
 EDA involved exploring the Data to answer some questions about the Data such as:
-  - What is overall sales trend?
-  - Which product are atop sellers?
-  - What are the product on peak sales?
-
+  - Show sales of Binder and Pencil in 2015?
+  - Sales in Central and East Region in 2014?
+  - Show sales in in August and September in 2014?
+  - Show sales that start with Pen, include their region, sales rep and year?
+  - Show sales of items that end with 'sk' include their region, sales rep, and year?
