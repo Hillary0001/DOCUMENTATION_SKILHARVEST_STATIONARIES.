@@ -40,3 +40,19 @@ Community Collaboration: Join our community discussions to share your insights, 
 At SkillHarvest, we believe in the transformative power of knowledge. Join us on this journey of learning, exploration, and skill development. Whether you're a data novice or a seasoned pro, there's always something new to discover in the ever-evolving world of data.
 
 Happy Learning!
+
+## Data Sources
+The primary data source employed in this analysis is the "DataSale.csv" file, which is an open-source dataset available for free download from various online platforms like Kaggle, FRED, or any other open data repository site.
+
+## Tools Used
+- Ms Excel for Data Cleaning [Download Here](https:/www.microsoft.com)
+- SQL Server (For Querying and Analysis)
+- power BI (For Reporting)
+- Ms Power Point (For Presentation)
+
+## Data Cleaning and Preparation
+EDA involved exploring the Data to answer some questions about the Data such as:
+  - What is overall sales trend?
+  - Which product are atop sellers?
+  - What are the product on peak sales?
+
