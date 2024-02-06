@@ -62,6 +62,37 @@ EDA involved exploring the Data to answer some questions about the Data such as:
 This is where we include some basic lines of code or queries of the DAX expressions used during your analysis
 
 ```
+ - Show sales of Binder and Pencil in 2015?
+
 =QUERY(A:H, "SELECT A,B,C,F WHERE C='Binder' and F=2015 or C='Pencil' and F=2015", 1)
 
 ```
+
+```
+ - Sales in Central and East Region in 2014?
+
+=QUERY(A:H, "SELECT A,C,H,F WHERE A='Central' and F=2014 or A='East' and F=2014", 1)=QUERY(A:H, "SELECT A,C,H,F WHERE A='Central' and F=2014 or A='East' and F=2014", 1)
+
+```
+
+```
+- Show sales in in August and September in 2014?
+
+=QUERY(A:H, "SELECT E,F,H WHERE E='Aug' and F=2014 or E='Sep' and F=2014", 1)
+
+```
+
+```
+ - Show sales that start with Pen, include their region, sales rep and year?
+
+=QUERY(A:H, "SELECT A,B,C,F,H WHERE C='Pen' and C LIKE 'Pen%'", 1)
+
+```
+
+```
+ - Show sales of items that end with 'sk' include their region, sales rep, and year?
+
+=QUERY(A:H, "SELECT A,B,C,F,H WHERE C LIKE '%sk'", 1)
+ 
+```
+
