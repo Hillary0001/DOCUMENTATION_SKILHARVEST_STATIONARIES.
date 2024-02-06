@@ -1,13 +1,14 @@
 # InsightForge.
 Build powerful insights with precision. Explore data, forge understanding, and empower your decision-making.
+This is where I recorded my initial project during my journey of learning Data Analysis with SkillHarvest.
 
 ## Documentation Outline ##
 
--[Respository Overview](#Respository-Overview)
-
-
-
-This is where I recorded my initial project during my journey of learning Data Analysis with SkillHarvest.
+- [Respository Overview](#Respository-Overview)
+- [Data Sources](#Data-Sources)
+- [Tools Used](#Tools-Used)
+- [Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
+- [Data Analysis](#Data-Analysis)
 
 ## Respository Overview
 
